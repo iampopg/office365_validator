@@ -73,8 +73,8 @@ def process_email(email,valid_email):
             if_exists_result = response_json["IfExistsResult"]
 
             # Check the value of "IfExistsResult"
-            if if_exists_result == 5:
-                print(green + f"=>VALID {email}")
+            if if_exists_result == 5 or if_exists_result==0:
+                print(green + f"=>VALID {email}(){if_exists_result}" )
                 # Save valid email to the 'validEmail.txt' file
                 
                 with open(valid_email, 'a') as valid_file:
