@@ -29,3 +29,6 @@ Before you can use this script, make sure you have the following prerequisites i
     This tool is provided for educational and legitimate purposes only. The author and contributors to this tool will not be responsible for any illegal or unethical usage of this tool. Users are solely responsible for ensuring their compliance with all applicable laws and regulations when using this tool. Use it responsibly and only on email addresses that you have the right to validate.
 
 ## License
+
+
+#python #o365 #office #validator
