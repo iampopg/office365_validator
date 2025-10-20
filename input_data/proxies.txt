@@ -1,0 +1,6 @@
+# Add your proxies here, one per line (e.g., ip:port or user:pass@ip:port)
+# Example: 192.168.1.1:8080
+# Example: 192.168.1.2:3128:user:pass
+
+196.53.53.214:8800
+196.53.53.214:8800:john:T9ChvbSKS9

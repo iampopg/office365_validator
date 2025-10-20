@@ -1,0 +1,4 @@
+# Add your proxies here, one per line
+# Format: ip:port or ip:port:username:password
+# Example: 192.168.1.1:8080
+# Example: 192.168.1.2:3128:user:pass

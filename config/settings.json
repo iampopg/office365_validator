@@ -1,0 +1,18 @@
+{
+    "INPUT_FILE_PATH": "emails_or_numbers.txt",
+    "VALID_OUTPUT_FILE": "Valid.txt",
+    "INVALID_OUTPUT_FILE": "Invalid.txt",
+    "UNKNOWN_OUTPUT_FILE": "Unknown.txt",
+    "LOG_LEVEL": "INFO",
+    "USE_PROXIES": false,
+    "PROXY_FILE_PATH": "config/proxies.txt",
+    "PROXY_CHECK_TIMEOUT": 10,
+    "PROXY_CHECK_URL": "https://login.microsoftonline.com",
+    "NUM_THREADS": 60,
+    "GENERATE_NUMBERS": true,
+    "GENERATED_NUMBERS_FILE": "generated_numbers.txt",
+    "PHONE_NUMBER_PREFIX": "207",
+    "GENERATED_NUMBER_LENGTH": 10,
+    "NUM_NUMBERS_TO_GENERATE": 1000000,
+    "CSRF_TOKEN_REFRESH_HOURS": 20
+}

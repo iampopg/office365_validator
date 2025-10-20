@@ -1,0 +1,3 @@
+# Add your emails or phone numbers here, one per line
+# Example: example@gmail.com
+# Example: +1234567890
