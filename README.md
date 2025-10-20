@@ -1,5 +1,7 @@
 # Office Validator GUI
 
+![1760970035721](image/README/1760970035721.png)
+
 A professional desktop application for Office account validation with advanced features and real-time processing.
 
 ## How to Use the Application
